@@ -69,7 +69,7 @@ data class ApiSearchResult(
         val displayLink: String,
         val snippet: String,
         val htmlSnippet: String,
-        val cacheId: String,
+        val cacheId: String?,
         val formattedUrl: String,
         val htmlFormattedUrl: String,
         val pagemap: PageMap
