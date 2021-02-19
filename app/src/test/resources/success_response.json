@@ -1,0 +1,357 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - DOGS",
+        "totalResults": "46500",
+        "searchTerms": "DOGS",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "004785902684984064423:npuxlr36ea0"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - DOGS",
+        "totalResults": "46500",
+        "searchTerms": "DOGS",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "004785902684984064423:npuxlr36ea0"
+      }
+    ]
+  },
+  "context": {
+    "title": "En.wikipedia"
+  },
+  "searchInformation": {
+    "searchTime": 1.296981,
+    "formattedSearchTime": "1.30",
+    "totalResults": "46500",
+    "formattedTotalResults": "46,500"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Sled dog - Wikipedia",
+      "htmlTitle": "Sled <b>dog</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Sled_dog",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "A sled dog is a dog trained and used to pull a rig in harness, most commonly a \nsled over snow. A sled dog team of 11 in Denali National Park and Preserve.",
+      "htmlSnippet": "A sled <b>dog</b> is a <b>dog</b> trained and used to pull a rig in harness, most commonly a <br>\nsled over snow. A sled <b>dog</b> team of 11 in Denali National Park and Preserve.",
+      "cacheId": "oN3VuFk71U8J",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Sled_dog",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Sled_<b>dog</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGe9_EZfqprcOOhV8gLt4EzABu1QEZ2mjAZMZKtf1JK3erX4-OWV5SlmE",
+            "width": "272",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Corrie_Mile_9_Landscape_-_Jacob_W._Frank_%288636566476%29.jpg/1200px-Corrie_Mile_9_Landscape_-_Jacob_W._Frank_%288636566476%29.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Corrie_Mile_9_Landscape_-_Jacob_W._Frank_%288636566476%29.jpg/1200px-Corrie_Mile_9_Landscape_-_Jacob_W._Frank_%288636566476%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Anti-tank dog - Wikipedia",
+      "htmlTitle": "Anti-tank <b>dog</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Anti-tank_dog",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "Anti-tank dogs were dogs taught to carry explosives to tanks, armored vehicles \nand other military targets. They were intensively trained by the Soviet and ...",
+      "htmlSnippet": "Anti-tank <b>dogs</b> were <b>dogs</b> taught to carry explosives to tanks, armored vehicles <br>\nand other military targets. They were intensively trained by the Soviet and&nbsp;...",
+      "cacheId": "8b_iuXQTkekJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Anti-tank_dog",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Anti-tank_<b>dog</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYsAUu6Z7HYjbN5k2YRyO5DhutPbrah4diEIoGBPAnx0eqY9ECaJNLLKT",
+            "width": "257",
+            "height": "196"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dogtrainingschool.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dogtrainingschool.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Free-ranging dog - Wikipedia",
+      "htmlTitle": "Free-ranging <b>dog</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Free-ranging_dog",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "A free-ranging dog is a dog that is not confined to a yard or house. Free-ranging \ndogs include street dogs, village dogs, stray dogs, feral dogs, etc., and may be ...",
+      "htmlSnippet": "A free-ranging <b>dog</b> is a <b>dog</b> that is not confined to a yard or house. Free-ranging <br>\n<b>dogs</b> include street <b>dogs</b>, village <b>dogs</b>, stray <b>dogs</b>, feral <b>dogs</b>, etc., and may be&nbsp;...",
+      "cacheId": "E3wt6U_sf7wJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Free-ranging_dog",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Free-ranging_<b>dog</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYgLMFMa_EgZpzWJBNjMF8EkLG5AdyVrlxy1HwhDbjw-h_Jb5BqucMNUS3",
+            "width": "214",
+            "height": "236"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Indian_street_dog.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Indian_street_dog.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Herding dog - Wikipedia",
+      "htmlTitle": "Herding <b>dog</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Herding_dog",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "A herding dog, also known as a stock dog, shepherd dog or working dog, is a \ntype of dog that either has been trained in herding or belongs to breeds that are ...",
+      "htmlSnippet": "A herding <b>dog</b>, also known as a stock <b>dog</b>, shepherd <b>dog</b> or working <b>dog</b>, is a <br>\ntype of <b>dog</b> that either has been trained in herding or belongs to breeds that are&nbsp;...",
+      "cacheId": "Ro-hZaDoEtYJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Herding_dog",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Herding_<b>dog</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp--5MdywbCrQ8XNSImZgGLinqqnrOGYpT3DgMVcAfOW77j6F17M_o2is",
+            "width": "230",
+            "height": "219"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kelpie_walking_across_the_backs_of_sheep.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kelpie_walking_across_the_backs_of_sheep.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Canidae - Wikipedia",
+      "htmlTitle": "Canidae - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Canidae",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "Canidae is a biological family of dog-like carnivorans. A member of this family is \ncalled a canid There are three subfamilies found within the canid family, which ...",
+      "htmlSnippet": "Canidae is a biological family of <b>dog</b>-like carnivorans. A member of this family is <br>\ncalled a canid There are three subfamilies found within the canid family, which&nbsp;...",
+      "cacheId": "lfSeaPr1AI4J",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Canidae",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Canidae",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlAun-El8LBIJkCaJ8hXaI3Y-2I3o62MQ926l1ocneK8Ygf7sOt6TeUU1A",
+            "width": "164",
+            "height": "307"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Familia_Canidae.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Familia_Canidae.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dogs (French band) - Wikipedia",
+      "htmlTitle": "<b>Dogs</b> (French band) - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Dogs_(French_band)",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "Dogs (aka Les Dogs) were a French punk rock/new wave band from Rouen, \nformed in 1973. Allmusic describes them as a \"treasured cult band\". Following \ntwo ...",
+      "htmlSnippet": "<b>Dogs</b> (aka Les <b>Dogs</b>) were a French punk rock/new wave band from Rouen, <br>\nformed in 1973. Allmusic describes them as a &quot;treasured cult band&quot;. Following <br>\ntwo&nbsp;...",
+      "cacheId": "_AG46YhyjYIJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Dogs_(French_band)",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/<b>Dogs</b>_(French_band)",
+      "pagemap": {
+        "hcard": [
+          {
+            "fn": "Dogs"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Intelligence of Dogs - Wikipedia",
+      "htmlTitle": "The Intelligence of <b>Dogs</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/The_Intelligence_of_Dogs",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "The Intelligence of Dogs is a 1994 book on dog intelligence by Stanley Coren, a \nprofessor of canine psychology at the University of British Columbia. The book ...",
+      "htmlSnippet": "The Intelligence of <b>Dogs</b> is a 1994 book on <b>dog</b> intelligence by Stanley Coren, a <br>\nprofessor of canine psychology at the University of British Columbia. The book&nbsp;...",
+      "cacheId": "0llWxjyBknwJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/The_Intelligence_of_Dogs",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/The_Intelligence_of_<b>Dogs</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4W99QnHrTu7VvQe0nk0Ooo7EegEd8YHZ8VIwPxsG1HcsaOWOQZ6a7pTtu",
+            "width": "220",
+            "height": "151"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Border_Collie_Macho_Blanco_y_Negro_%28Batman%2C_los_Baganes_Border_Collie%29.jpg/220px-Border_Collie_Macho_Blanco_y_Negro_%28Batman%2C_los_Baganes_Border_Collie%29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Companion dog - Wikipedia",
+      "htmlTitle": "Companion <b>dog</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Companion_Group",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "A companion dog is a dog that does not work, providing only companionship as a \npet, rather than usefulness by doing specific tasks. Many of the toy dog breeds ...",
+      "htmlSnippet": "A companion <b>dog</b> is a <b>dog</b> that does not work, providing only companionship as a <br>\npet, rather than usefulness by doing specific tasks. Many of the toy <b>dog</b> breeds&nbsp;...",
+      "cacheId": "Gd9n32LgrzcJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Companion_Group",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Companion_Group",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc3Cj65YEHtiAhfEQrr_5u9ZjyNqRixNcYl16qKujTryxraHI_n1FYkHc",
+            "width": "220",
+            "height": "220"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pomeranian_600.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomeranian_600.jpg/220px-Pomeranian_600.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mongrel - Wikipedia",
+      "htmlTitle": "Mongrel - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Mongrel",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "A mongrel, mutt or mixed-breed dog is a dog that does not belong to one officially \nrecognized breed and is not the result of intentional breeding. Estimates place ...",
+      "htmlSnippet": "A mongrel, mutt or mixed-breed <b>dog</b> is a <b>dog</b> that does not belong to one officially <br>\nrecognized breed and is not the result of intentional breeding. Estimates place&nbsp;...",
+      "cacheId": "IxZBBNdKoZMJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Mongrel",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Mongrel",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8nfHTUeohHmHsA46xj7L3HKOKgRyBAIBBmoDJEhSWfQLxAT27bzBJV7IX",
+            "width": "201",
+            "height": "250"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Poligraf_Poligrafovich.JPG"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Poligraf_Poligrafovich.JPG"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bernese Mountain Dog - Wikipedia",
+      "htmlTitle": "Bernese Mountain <b>Dog</b> - Wikipedia",
+      "link": "https://en.wikipedia.com/wiki/Bernese_Mountain_Dog",
+      "displayLink": "en.wikipedia.com",
+      "snippet": "The Bernese Mountain Dog (German: Berner Sennenhund) is a large dog breed, \none of the four breeds of Sennenhund-type dogs from the Swiss Alps. These ...",
+      "htmlSnippet": "The Bernese Mountain <b>Dog</b> (German: Berner Sennenhund) is a large <b>dog</b> breed, <br>\none of the four breeds of Sennenhund-type <b>dogs</b> from the Swiss Alps. These&nbsp;...",
+      "cacheId": "faZ9nk2nONEJ",
+      "formattedUrl": "https://en.wikipedia.com/wiki/Bernese_Mountain_Dog",
+      "htmlFormattedUrl": "https://en.wikipedia.com/wiki/Bernese_Mountain_<b>Dog</b>",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_jfGG32AgVMD32ifloMeKpoAWwFerCcZyuQM9JBR3YWowhhTrd72XLCg",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Othello.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Othello.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
