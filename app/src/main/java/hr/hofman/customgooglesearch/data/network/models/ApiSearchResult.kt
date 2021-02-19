@@ -8,26 +8,26 @@ data class ApiSearchResult(
     val kind: String,
     val url: Url,
     val queries: Queries,
-    val context: Context,
+    val context: Context?,
     val searchInformation: SearchInformation,
-    val items: List<Item>
+    val items: List<Item>?
 ) {
     @JsonClass(generateAdapter = true)
     data class Url(val type: String, val template: String)
 
     @JsonClass(generateAdapter = true)
-    data class Queries(val request: Array<Request>, val nextPage: Array<Request>) {
+    data class Queries(val request: Array<Request>, val nextPage: Array<Request>?) {
         @JsonClass(generateAdapter = true)
         data class Request(
-            val title: String,
-            val totalResults: String,
-            val searchTerms: String,
-            val count: Int,
-            val startIndex: Int,
-            val inputEncoding: String,
-            val outputEncoding: String,
-            val safe: String,
-            val cx: String
+            val title: String?,
+            val totalResults: String?,
+            val searchTerms: String?,
+            val count: Int?,
+            val startIndex: Int?,
+            val inputEncoding: String?,
+            val outputEncoding: String?,
+            val safe: String?,
+            val cx: String?
         )
 
         override fun equals(other: Any?): Boolean {
